@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidStudioProjects.iml" filepath="$PROJECT_DIR$/AndroidStudioProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goodleplay/goodleplay.iml" filepath="$PROJECT_DIR$/goodleplay/goodleplay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webSerser/webSerser.iml" filepath="$PROJECT_DIR$/webSerser/webSerser.iml" />
+    </modules>
+  </component>
+</project>
