@@ -75,4 +75,13 @@ public class UIUtils {
 	public static int getColor(int id){
 		return getContext().getResources().getColor(id);
 	}
+
+	/**
+	 * 得到当前尺寸
+	 * @param id
+	 * @return
+	 */
+	public static int getDimen(int id){
+		return getContext().getResources().getDimensionPixelSize(id);
+	}
  }
