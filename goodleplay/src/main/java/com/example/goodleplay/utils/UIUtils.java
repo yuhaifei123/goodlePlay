@@ -1,11 +1,10 @@
 package com.example.goodleplay.utils;
 
 import android.content.Context;
-import android.content.res.Resources;
 import android.graphics.drawable.Drawable;
-import android.os.Build;
 import android.os.Handler;
-import android.support.annotation.RequiresApi;
+import android.os.Process;
+import android.view.View;
 
 import com.example.goodleplay.GooglePlayApplication;
 
@@ -54,7 +53,6 @@ public class UIUtils {
 	 * @return
 	 */
 	public static String[] getStringArray(int id){
-
 		return getContext().getResources().getStringArray(id);
 	}
 
@@ -83,5 +81,64 @@ public class UIUtils {
 	 */
 	public static int getDimen(int id){
 		return getContext().getResources().getDimensionPixelSize(id);
+	}
+
+	/**
+	 * dip转px
+	 * @param dip
+	 * @return
+	 */
+	public static int dip2px(float dip){
+		float dessity = getContext().getResources().getDisplayMetrics().density;
+		return  (int) (dip * dessity +0.5f);
+	}
+
+	/**
+	 * px转dip
+	 * @param px
+	 * @return
+	 */
+	public static float px2dip(float px){
+		float dessity = getContext().getResources().getDisplayMetrics().density;
+		return px/dessity;
+	}
+
+	/**
+	 * 加载布局文件
+	 * @param id
+	 * @return
+	 */
+	public static View inflate(int id){
+
+		return View.inflate(getContext(),id,null);
+	}
+
+	/**
+	 * 判断是不是运行在主线程上面
+	 * @return
+	 */
+	public static boolean isRunUIThread(){
+
+		int i = Process.myTid();
+		if (i == getMainThreadId()){
+			return  true;
+		}
+		return false;
+	}
+
+	/**
+	 * 运行到主线程
+	 * @param r
+	 */
+	public static void runOnUIThread(Runnable r){
+
+		//如果在主线程直接运行
+		if (isRunUIThread() == true){
+			r.run();
+		}
+		else {
+			//不是主线程，直接post到主线程
+			getHandler().post(r);
+		}
 	}
  }
