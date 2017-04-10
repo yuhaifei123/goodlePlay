@@ -1,6 +1,7 @@
 package com.example.goodleplay.utils;
 
 import android.content.Context;
+import android.content.res.ColorStateList;
 import android.graphics.drawable.Drawable;
 import android.os.Handler;
 import android.os.Process;
@@ -72,6 +73,16 @@ public class UIUtils {
 	 */
 	public static int getColor(int id){
 		return getContext().getResources().getColor(id);
+	}
+
+	/**
+	 * 根据id，得到颜色状态
+	 * @param id
+	 * @return
+	 */
+	public static ColorStateList getColorStateList(int id){
+
+		return getContext().getResources().getColorStateList(id);
 	}
 
 	/**
