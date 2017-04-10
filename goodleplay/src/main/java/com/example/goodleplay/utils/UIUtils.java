@@ -7,7 +7,7 @@ import android.os.Handler;
 import android.os.Process;
 import android.view.View;
 
-import com.example.goodleplay.GooglePlayApplication;
+import com.example.goodleplay.ui.GooglePlayApplication;
 
 /**
  * Created by 胡玉娇 on 2017/4/6.

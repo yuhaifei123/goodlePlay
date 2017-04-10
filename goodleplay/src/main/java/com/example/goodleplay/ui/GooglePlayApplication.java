@@ -1,4 +1,4 @@
-package com.example.goodleplay;
+package com.example.goodleplay.ui;
 
 import android.app.Application;
 import android.content.Context;
