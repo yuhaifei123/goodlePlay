@@ -1,6 +1,7 @@
 package com.example.httpdemo;
 
 import android.content.Context;
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
@@ -17,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
 		setContentView(R.layout.activity_main);
 
 		mContext = this;
+		this.initView();
 	}
 
 	/**
@@ -32,6 +34,13 @@ public class MainActivity extends AppCompatActivity {
 		@Override
 		public void onClick(View v) {
 			Toast.makeText(mContext,"点击我干嘛",Toast.LENGTH_LONG).show();
+			this.upActivity();
+		}
+		public void upActivity(){
+
+			Intent mIntent=new Intent();
+			mIntent.setClass(mContext,TwoAcitivity.class);
+			startActivity(mIntent);
 		}
 	}
 }
