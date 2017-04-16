@@ -1,22 +1,22 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml:2:1-35:12
+ADDED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml:2:1-35:12
 	package
-		ADDED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml:3:5-32
-		INJECTED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml:5:5-30
-		INJECTED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml
 	android:versionCode
-		ADDED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml:4:5-28
-		INJECTED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml:2:11-69
 uses-sdk
-ADDED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml:7:5-44
+ADDED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml:7:5-44
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ºúÓñ½¿\.android\build-cache\a6377b2cd9b384c370fda4eea07ec88ceee63633\output\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ºúÓñ½¿\.android\build-cache\283724c92b790ffb93689fab0f666d60f88b3e08\output\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ºúÓñ½¿\.android\build-cache\df1166dc248276b3f170e4617a04e61ed8901d60\output\AndroidManifest.xml:21:5-23:60
@@ -29,46 +29,46 @@ MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ºúÓñ½¿\.android
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ºúÓñ½¿\.android\build-cache\a6377b2cd9b384c370fda4eea07ec88ceee63633\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml:7:15-41
-		INJECTED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml
-		INJECTED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml:7:15-41
+		INJECTED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml
 uses-permission#android.permission.READ_CONTACTS
-ADDED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml:9:5-72
+ADDED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml:9:5-72
 	android:name
-		ADDED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml:9:22-69
+		ADDED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml:9:22-69
 uses-permission#android.permission.WRITE_CONTACTS
-ADDED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml:10:5-73
+ADDED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml:10:5-73
 	android:name
-		ADDED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml:10:22-70
+		ADDED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml:10:22-70
 uses-permission#android.permission.WRITE_SETTINGS
-ADDED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml:11:5-73
+ADDED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml:11:5-73
 	android:name
-		ADDED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml:11:22-70
+		ADDED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml:11:22-70
 uses-permission#android.permission.INTERNET
-ADDED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml:12:5-67
+ADDED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml:12:5-67
 	android:name
-		ADDED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml:12:22-64
+		ADDED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml:12:22-64
 uses-permission#android.permission.WAKE_LOCK
-ADDED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml:13:5-68
+ADDED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml:13:5-68
 	android:name
-		ADDED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml:13:22-65
+		ADDED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml:13:22-65
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml:14:5-81
+ADDED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml:14:5-81
 	android:name
-		ADDED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml:14:22-78
+		ADDED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml:14:22-78
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml:15:5-81
+ADDED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml:15:5-81
 	android:name
-		ADDED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml:15:22-78
+		ADDED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml:15:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml:16:5-79
+ADDED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml:16:5-79
 	android:name
-		ADDED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml:16:22-76
+		ADDED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml:16:22-76
 application
-ADDED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml:18:5-33:19
+ADDED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml:18:5-33:19
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ºúÓñ½¿\.android\build-cache\a6377b2cd9b384c370fda4eea07ec88ceee63633\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ºúÓñ½¿\.android\build-cache\283724c92b790ffb93689fab0f666d60f88b3e08\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ºúÓñ½¿\.android\build-cache\df1166dc248276b3f170e4617a04e61ed8901d60\output\AndroidManifest.xml:29:5-20
@@ -79,29 +79,29 @@ MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ºúÓñ½
 MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ºúÓñ½¿\.android\build-cache\49659bfa3d369a6219a6b9fe8fd76a19f8ead2c1\output\AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ºúÓñ½¿\.android\build-cache\62219a461198f6e5da26e28571d45b8dcb468886\output\AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml:20:9-41
+		ADDED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml:20:9-41
 	android:icon
-		ADDED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml:19:9-45
+		ADDED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml:19:9-45
 activity#com.google.server.MainActivity
-ADDED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml:21:9-29:20
+ADDED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml:21:9-29:20
 	android:label
-		ADDED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml:23:13-45
+		ADDED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml:23:13-45
 	android:name
-		ADDED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml:22:13-58
+		ADDED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml:22:13-58
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml:24:13-28:29
+ADDED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml:24:13-28:29
 action#android.intent.action.MAIN
-ADDED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml:25:17-69
+ADDED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml:25:17-69
 	android:name
-		ADDED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml:25:25-66
+		ADDED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml:25:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml:27:17-77
+ADDED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml:27:17-77
 	android:name
-		ADDED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml:27:27-74
+		ADDED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml:27:27-74
 service#com.google.server.WebService
-ADDED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml:31:9-32:19
+ADDED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml:31:9-32:19
 	android:name
-		ADDED from D:\AndroidApp\AndroidStudioProjects\webSerser\src\main\AndroidManifest.xml:31:18-61
+		ADDED from D:\AndroidApp\goodlePlay\webSerser\src\main\AndroidManifest.xml:31:18-61
 meta-data#android.support.VERSION
 ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ºúÓñ½¿\.android\build-cache\a6377b2cd9b384c370fda4eea07ec88ceee63633\output\AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ºúÓñ½¿\.android\build-cache\283724c92b790ffb93689fab0f666d60f88b3e08\output\AndroidManifest.xml:25:5-27:34

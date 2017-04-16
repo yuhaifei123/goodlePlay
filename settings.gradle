@@ -1,2 +1,2 @@
-include ':app', ':goodleplay'
+include ':app', ':goodleplay', ':httpDemo'
 include ':webSerser'

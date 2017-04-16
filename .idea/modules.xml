@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AndroidStudioProjects.iml" filepath="$PROJECT_DIR$/AndroidStudioProjects.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goodlePlay.iml" filepath="$PROJECT_DIR$/goodlePlay.iml" />
       <module fileurl="file://$PROJECT_DIR$/goodleplay/goodleplay.iml" filepath="$PROJECT_DIR$/goodleplay/goodleplay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httpDemo/httpDemo.iml" filepath="$PROJECT_DIR$/httpDemo/httpDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/webSerser/webSerser.iml" filepath="$PROJECT_DIR$/webSerser/webSerser.iml" />
     </modules>
   </component>
