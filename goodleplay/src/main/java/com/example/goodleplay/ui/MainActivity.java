@@ -9,6 +9,7 @@ import android.support.v4.view.ViewPager;
 import com.example.goodleplay.R;
 import com.example.goodleplay.ui.activity.BaseActivity;
 import com.example.goodleplay.ui.view.PagerTab;
+import com.example.goodleplay.ui.view.fragment.FragmentFactory;
 import com.example.goodleplay.utils.UIUtils;
 
 public class MainActivity extends BaseActivity {
@@ -56,13 +57,15 @@ public class MainActivity extends BaseActivity {
 		//设置标题
 		@Override
 		public CharSequence getPageTitle(int position) {
-			return super.getPageTitle(position);
+			return mStringArray[position];
 		}
 
 		//返回当前页面位置的Feagment对象
 		@Override
 		public Fragment getItem(int position) {
-			return null;
+
+			Fragment fragment = FragmentFactory.creatFragent(position);
+			return fragment;
 		}
 
 		//要几个Fragment
