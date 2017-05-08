@@ -19,13 +19,13 @@ import com.example.goodleplay.utils.UIUtils;
  * 最大的Fragment,其他的fragment继承与他
  */
 public class BaseFragment extends Fragment {
+
+	private LoadingPage mLoadingPage;
 	@Nullable
 	@Override
 	public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
 
-		TextView textView = new TextView(UIUtils.getContext());
-		textView.setText(this.getClass().getSimpleName());//获取类名
-		textView.setTextColor(Color.RED);
-		return textView;
+		mLoadingPage = new LoadingPage(UIUtils.getContext());
+		return mLoadingPage;
 	}
 }
