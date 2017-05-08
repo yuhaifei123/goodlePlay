@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\AndroidApp\\goodlePlay\\webSerser\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "outputFile": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,33 @@
                     "endOffset": 327
                 },
                 "from": {
-                    "file": "C:\\Users\\胡玉娇\\.android\\build-cache\\a6377b2cd9b384c370fda4eea07ec88ceee63633\\output\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "file": "/Users/yuhaifei/.android/build-cache/a55a9e48f1422f049cc3f766fed6bdc514af90ff/output/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 13,
+                        "endOffset": 327
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/D:\\AndroidApp\\goodlePlay\\webSerser\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 13,
+                    "endOffset": 327
+                },
+                "from": {
+                    "file": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/C:\\Users\\胡玉娇\\.android\\build-cache\\a6377b2cd9b384c370fda4eea07ec88ceee63633\\output\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

@@ -1,5 +1,6 @@
 package com.example.goodleplay.ui.view.fragment;
 
+import android.graphics.Color;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
@@ -23,7 +24,8 @@ public class BaseFragment extends Fragment {
 	public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
 
 		TextView textView = new TextView(UIUtils.getContext());
-		textView.setText(this.getClass().getSimpleName());
+		textView.setText(this.getClass().getSimpleName());//获取类名
+		textView.setTextColor(Color.RED);
 		return textView;
 	}
 }
