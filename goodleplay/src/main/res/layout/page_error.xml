@@ -3,14 +3,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:gravity="center"
     >
-
-    <RelativeLayout
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        >
-
 
         <ImageView
             android:id="@+id/imageView_page_error"
@@ -21,15 +15,15 @@
             />
 
         <Button
-
             android:id="@+id/button_page_error"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
             android:layout_below="@id/imageView_page_error"
-            android:layout_marginTop="50dp"
             android:text="加载失败，请重试"
+            android:background="@drawable/btn_load_error_select"
             />
-
-    </RelativeLayout>
 
 </LinearLayout>

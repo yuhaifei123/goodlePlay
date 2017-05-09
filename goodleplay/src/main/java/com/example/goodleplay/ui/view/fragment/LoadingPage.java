@@ -19,6 +19,11 @@ import com.example.goodleplay.utils.UIUtils;
 
 public class LoadingPage extends FrameLayout {
 
+    /** 加载为空 */
+    private View mPage_empty;
+    /** 加载错误 */
+    private View mPage_error;
+
     /**
      * STATE_LOAD_UNOD  == 没有加载
      * STATE_LOAD_LOADING ==加载中
@@ -63,5 +68,28 @@ public class LoadingPage extends FrameLayout {
             addView(mPageLoading);
         }
 
+        if (mPage_error == null){
+            mPage_error = (View) UIUtils.inflate(R.layout.page_error);
+            addView(mPage_error);
+        }
+
+        if (mPage_empty == null){
+            mPage_empty = (View) UIUtils.inflate(R.layout.page_empty);
+            addView(mPage_empty);
+        }
+    }
+
+    /**
+     * 根据当前状态加载那过布局
+     */
+    public void showRightPage(){
+
+        if (mCurrentState.equals(STATE_LOAD.STATE_LOAD_UNOD) || mCurrentState.equals(STATE_LOAD.STATE_LOAD_LOADING)){
+
+            mPageLoading.setVisibility(View.VISIBLE);
+        }
+        else {
+            mPageLoading.setVisibility(View.GONE);
+        }
     }
 }

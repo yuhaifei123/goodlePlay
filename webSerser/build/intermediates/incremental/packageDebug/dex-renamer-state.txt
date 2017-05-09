@@ -1,0 +1,7 @@
+#Mon May 08 11:22:13 CST 2017
+base.0=/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8b13844baa2e8c988529bdf135a1ad64b8af65b4
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d30739e988a42e3dad9795f7030aad977d46670e/classes.dex
+base.1=/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d30739e988a42e3dad9795f7030aad977d46670e
+file.0=/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8b13844baa2e8c988529bdf135a1ad64b8af65b4/classes.dex
