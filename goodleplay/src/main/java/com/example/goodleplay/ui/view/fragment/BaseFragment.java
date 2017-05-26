@@ -25,7 +25,12 @@ public class BaseFragment extends Fragment {
 	@Override
 	public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
 
-		mLoadingPage = new LoadingPage(UIUtils.getContext());
+		mLoadingPage = new LoadingPage(UIUtils.getContext()) {
+            @Override
+            public View onCreateSuccessView() {
+                return null;
+            }
+        };
 		return mLoadingPage;
 	}
 }
