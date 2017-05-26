@@ -18,7 +18,7 @@ import com.example.goodleplay.utils.UIUtils;
 /**
  * 最大的Fragment,其他的fragment继承与他
  */
-public class BaseFragment extends Fragment {
+public abstract class BaseFragment extends Fragment {
 
 	private LoadingPage mLoadingPage;
 	@Nullable
@@ -28,9 +28,15 @@ public class BaseFragment extends Fragment {
 		mLoadingPage = new LoadingPage(UIUtils.getContext()) {
             @Override
             public View onCreateSuccessView() {
-                return null;
+                return BaseFragment.this.onCreateSuccessView();
             }
         };
 		return mLoadingPage;
 	}
+
+    /**
+     * 让后面的子类实现这个方法，这样展示他的view
+     * @return
+     */
+	public abstract View onCreateSuccessView();
 }
