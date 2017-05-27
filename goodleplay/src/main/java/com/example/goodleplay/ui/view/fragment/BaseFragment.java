@@ -30,7 +30,12 @@ public abstract class BaseFragment extends Fragment {
             public View onCreateSuccessView() {
                 return BaseFragment.this.onCreateSuccessView();
             }
-        };
+
+			@Override
+			public ResulState initData() {
+				return BaseFragment.this.initDate();
+			}
+		};
 		return mLoadingPage;
 	}
 
@@ -39,4 +44,21 @@ public abstract class BaseFragment extends Fragment {
      * @return
      */
 	public abstract View onCreateSuccessView();
+
+	/**
+	 *初始化数据
+	 * @return
+	 */
+	public abstract LoadingPage.ResulState initDate();
+
+	/**
+	 *加载界面
+	 */
+	public  void  loadDate(){
+
+		if (mLoadingPage != null){
+
+			mLoadingPage.loadData();
+		}
+	}
 }

@@ -14,4 +14,9 @@ public class HomeFragment extends BaseFragment {
     public View onCreateSuccessView() {
         return null;
     }
+
+    @Override
+    public LoadingPage.ResulState initDate() {
+        return null;
+    }
 }

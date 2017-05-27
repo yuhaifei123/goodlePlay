@@ -157,12 +157,19 @@ public abstract class LoadingPage extends FrameLayout {
             @Override
             public void run() {
                 super.run();
-                ResulState resulState = initData();
-                if (resulState != null){
-                    // 网络加载数据状态，把状态转化成加载界面状态
-                     mCurrentState = resulState.getState();
-                }
-                showRightPage();
+                 final ResulState resulState = initData();
+
+                UIUtils.runOnUIThread(new Runnable() {
+                    @Override
+                    public void run() {
+                        if (resulState != null){
+                            // 网络加载数据状态，把状态转化成加载界面状态
+                            mCurrentState = resulState.getState();
+                        }
+                        showRightPage();
+                    }
+                });
+
             }
         }.start();
     }

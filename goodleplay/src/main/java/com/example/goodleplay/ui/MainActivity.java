@@ -9,6 +9,7 @@ import android.support.v4.view.ViewPager;
 import com.example.goodleplay.R;
 import com.example.goodleplay.ui.activity.BaseActivity;
 import com.example.goodleplay.ui.view.PagerTab;
+import com.example.goodleplay.ui.view.fragment.BaseFragment;
 import com.example.goodleplay.ui.view.fragment.FragmentFactory;
 import com.example.goodleplay.utils.UIUtils;
 
@@ -38,6 +39,28 @@ public class MainActivity extends BaseActivity {
 		mViewPage.setAdapter(mMyAdapter);
 		//在把每個viewPage，放進去
 		mPagerTab.setViewPager(mViewPage);
+
+		/**
+		 * 页面改变监听
+		 */
+		mPagerTab.setOnPageChangeListener(new ViewPager.OnPageChangeListener() {
+			@Override
+			public void onPageScrolled(int position, float positionOffset, int positionOffsetPixels) {
+
+			}
+
+			@Override
+			public void onPageSelected(int position) {
+				//FragmentFactory 是根据（position）得到其他fragment、，其他fragment是继承nbasefragment
+				BaseFragment baseFragment = (BaseFragment) FragmentFactory.creatFragent(position);
+				baseFragment.loadDate();
+			}
+
+			@Override
+			public void onPageScrollStateChanged(int state) {
+
+			}
+		});
 
 	}
 
