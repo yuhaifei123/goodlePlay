@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/D:\\AndroidApp\\goodlePlay\\webSerser\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v22\\values-v22.xml",
+        "outputFile": "C:\\Users\\lenovo\\Desktop\\android_androidstudio\\goodlePlay\\webSerser\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v22\\values-v22.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 125
                 },
                 "from": {
-                    "file": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/C:\\Users\\胡玉娇\\.android\\build-cache\\a6377b2cd9b384c370fda4eea07ec88ceee63633\\output\\res\\values-v22\\values-v22.xml",
+                    "file": "C:\\Users\\lenovo\\.android\\build-cache\\808fd6bc9140d736b7f0b18ec08b07ae8d7ce67c\\output\\res\\values-v22\\values-v22.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 212
                 },
                 "from": {
-                    "file": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/C:\\Users\\胡玉娇\\.android\\build-cache\\a6377b2cd9b384c370fda4eea07ec88ceee63633\\output\\res\\values-v22\\values-v22.xml",
+                    "file": "C:\\Users\\lenovo\\.android\\build-cache\\808fd6bc9140d736b7f0b18ec08b07ae8d7ce67c\\output\\res\\values-v22\\values-v22.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -50,7 +50,7 @@
                     "endOffset": 548
                 },
                 "from": {
-                    "file": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/C:\\Users\\胡玉娇\\.android\\build-cache\\a6377b2cd9b384c370fda4eea07ec88ceee63633\\output\\res\\values-v22\\values-v22.xml",
+                    "file": "C:\\Users\\lenovo\\.android\\build-cache\\808fd6bc9140d736b7f0b18ec08b07ae8d7ce67c\\output\\res\\values-v22\\values-v22.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -71,92 +71,7 @@
                     "endOffset": 896
                 },
                 "from": {
-                    "file": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/C:\\Users\\胡玉娇\\.android\\build-cache\\a6377b2cd9b384c370fda4eea07ec88ceee63633\\output\\res\\values-v22\\values-v22.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 553,
-                        "endLine": 13,
-                        "endColumn": 12,
-                        "endOffset": 896
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 74,
-                    "endOffset": 125
-                },
-                "from": {
-                    "file": "/Users/yuhaifei/.android/build-cache/a55a9e48f1422f049cc3f766fed6bdc514af90ff/output/res/values-v22/values-v22.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 74,
-                        "endOffset": 125
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 130,
-                    "endColumn": 86,
-                    "endOffset": 212
-                },
-                "from": {
-                    "file": "/Users/yuhaifei/.android/build-cache/a55a9e48f1422f049cc3f766fed6bdc514af90ff/output/res/values-v22/values-v22.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 130,
-                        "endColumn": 86,
-                        "endOffset": 212
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 217,
-                    "endLine": 8,
-                    "endColumn": 12,
-                    "endOffset": 548
-                },
-                "from": {
-                    "file": "/Users/yuhaifei/.android/build-cache/a55a9e48f1422f049cc3f766fed6bdc514af90ff/output/res/values-v22/values-v22.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 217,
-                        "endLine": 8,
-                        "endColumn": 12,
-                        "endOffset": 548
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 553,
-                    "endLine": 13,
-                    "endColumn": 12,
-                    "endOffset": 896
-                },
-                "from": {
-                    "file": "/Users/yuhaifei/.android/build-cache/a55a9e48f1422f049cc3f766fed6bdc514af90ff/output/res/values-v22/values-v22.xml",
+                    "file": "C:\\Users\\lenovo\\.android\\build-cache\\808fd6bc9140d736b7f0b18ec08b07ae8d7ce67c\\output\\res\\values-v22\\values-v22.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,

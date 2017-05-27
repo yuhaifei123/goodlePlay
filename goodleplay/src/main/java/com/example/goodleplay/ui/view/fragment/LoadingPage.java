@@ -15,6 +15,8 @@ import com.example.goodleplay.utils.UIUtils;
 
 import java.util.HashMap;
 
+import javax.sql.RowSetReader;
+
 /**
  * 创建布局
  * 初始化加载界面
@@ -113,7 +115,6 @@ public abstract class LoadingPage extends FrameLayout {
             mPage_error.setVisibility(View.GONE);
         }
 
-
         if (mCurrentState.equals(STATE_LOAD.STATE_LOAD_EMPTY.name())) {
 
             mPage_empty.setVisibility(View.VISIBLE);
@@ -121,11 +122,49 @@ public abstract class LoadingPage extends FrameLayout {
             mPage_empty.setVisibility(View.GONE);
         }
 
+        /**
+         * 如果加载状态是正确的，而且展示界面是null，就加载而这个界面
+         */
         if (mCurrentState.equals(STATE_LOAD.STATE_LOAD_SUCCESS.name()) && mSussesssPag == null) {
 
             mSussesssPag = onCreateSuccessView();
+            if (mSussesssPag != null){
+                addView(mSussesssPag);
+            }
         }
 
+        /**
+         * 如果这个界面有，要控制是不是，要显示和隐藏
+         */
+        if (mSussesssPag != null){
+            if (mCurrentState.equals(STATE_LOAD.STATE_LOAD_SUCCESS.name())){
+                mSussesssPag.setVisibility(View.VISIBLE);
+            }
+            else {
+                mSussesssPag.setVisibility(View.GONE);
+            }
+        }
+    }
+
+    /**
+     * 加载数据
+     * 请求网络加载数据
+     */
+    public void  loadData(){
+
+        new Thread(){
+
+            @Override
+            public void run() {
+                super.run();
+                ResulState resulState = initData();
+                if (resulState != null){
+                    // 网络加载数据状态，把状态转化成加载界面状态
+                     mCurrentState = resulState.getState();
+                }
+                showRightPage();
+            }
+        }.start();
     }
 
     /**
@@ -135,4 +174,28 @@ public abstract class LoadingPage extends FrameLayout {
      */
     public abstract View onCreateSuccessView();
 
+    /**
+     * 加载数据，返回服务器请求数据的状态
+     * @return
+     */
+    public abstract ResulState initData();
+
+    /**
+     * 枚举，其实是一个类，STATE_SUCCESS 好比一个方法  STATE_SUCCESS AA = new STATE_SUCCESS(String data)
+     */
+    public enum ResulState{
+        STATE_SUCCESS(STATE_LOAD.STATE_LOAD_SUCCESS.name()),
+        STATE_EMPTY(STATE_LOAD.STATE_LOAD_EMPTY.name()),
+        STATE_ERROR(STATE_LOAD.STATE_LOAD_ERROR.name());
+
+        //添加数据属性  给枚举赋值
+        private String state;
+        ResulState(String state){
+            this.state = state;
+        }
+
+        public String getState() {
+            return state;
+        }
+    }
 }

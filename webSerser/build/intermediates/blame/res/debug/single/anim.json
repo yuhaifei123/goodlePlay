@@ -1,82 +1,42 @@
 [
     {
-        "merged": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/Users/yuhaifei/.android/build-cache/a55a9e48f1422f049cc3f766fed6bdc514af90ff/output/res/anim/abc_slide_in_bottom.xml"
+        "merged": "C:\\Users\\lenovo\\Desktop\\android_androidstudio\\goodlePlay\\webSerser\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\808fd6bc9140d736b7f0b18ec08b07ae8d7ce67c\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/D:\\AndroidApp\\goodlePlay\\webSerser\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/C:\\Users\\胡玉娇\\.android\\build-cache\\a6377b2cd9b384c370fda4eea07ec88ceee63633\\output\\res\\anim\\abc_slide_out_top.xml"
+        "merged": "C:\\Users\\lenovo\\Desktop\\android_androidstudio\\goodlePlay\\webSerser\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\808fd6bc9140d736b7f0b18ec08b07ae8d7ce67c\\output\\res\\anim\\abc_popup_exit.xml"
     },
     {
-        "merged": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/Users/yuhaifei/.android/build-cache/a55a9e48f1422f049cc3f766fed6bdc514af90ff/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+        "merged": "C:\\Users\\lenovo\\Desktop\\android_androidstudio\\goodlePlay\\webSerser\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\808fd6bc9140d736b7f0b18ec08b07ae8d7ce67c\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/Users/yuhaifei/.android/build-cache/a55a9e48f1422f049cc3f766fed6bdc514af90ff/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+        "merged": "C:\\Users\\lenovo\\Desktop\\android_androidstudio\\goodlePlay\\webSerser\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\808fd6bc9140d736b7f0b18ec08b07ae8d7ce67c\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/D:\\AndroidApp\\goodlePlay\\webSerser\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/C:\\Users\\胡玉娇\\.android\\build-cache\\a6377b2cd9b384c370fda4eea07ec88ceee63633\\output\\res\\anim\\abc_slide_in_bottom.xml"
+        "merged": "C:\\Users\\lenovo\\Desktop\\android_androidstudio\\goodlePlay\\webSerser\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\808fd6bc9140d736b7f0b18ec08b07ae8d7ce67c\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/D:\\AndroidApp\\goodlePlay\\webSerser\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/C:\\Users\\胡玉娇\\.android\\build-cache\\a6377b2cd9b384c370fda4eea07ec88ceee63633\\output\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "C:\\Users\\lenovo\\Desktop\\android_androidstudio\\goodlePlay\\webSerser\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\808fd6bc9140d736b7f0b18ec08b07ae8d7ce67c\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
-        "merged": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
-        "source": "/Users/yuhaifei/.android/build-cache/a55a9e48f1422f049cc3f766fed6bdc514af90ff/output/res/anim/abc_fade_in.xml"
+        "merged": "C:\\Users\\lenovo\\Desktop\\android_androidstudio\\goodlePlay\\webSerser\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\808fd6bc9140d736b7f0b18ec08b07ae8d7ce67c\\output\\res\\anim\\abc_slide_in_top.xml"
     },
     {
-        "merged": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
-        "source": "/Users/yuhaifei/.android/build-cache/a55a9e48f1422f049cc3f766fed6bdc514af90ff/output/res/anim/abc_fade_out.xml"
+        "merged": "C:\\Users\\lenovo\\Desktop\\android_androidstudio\\goodlePlay\\webSerser\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\808fd6bc9140d736b7f0b18ec08b07ae8d7ce67c\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/D:\\AndroidApp\\goodlePlay\\webSerser\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/C:\\Users\\胡玉娇\\.android\\build-cache\\a6377b2cd9b384c370fda4eea07ec88ceee63633\\output\\res\\anim\\abc_fade_out.xml"
+        "merged": "C:\\Users\\lenovo\\Desktop\\android_androidstudio\\goodlePlay\\webSerser\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\808fd6bc9140d736b7f0b18ec08b07ae8d7ce67c\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
-        "merged": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
-        "source": "/Users/yuhaifei/.android/build-cache/a55a9e48f1422f049cc3f766fed6bdc514af90ff/output/res/anim/abc_slide_in_top.xml"
-    },
-    {
-        "merged": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/D:\\AndroidApp\\goodlePlay\\webSerser\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/C:\\Users\\胡玉娇\\.android\\build-cache\\a6377b2cd9b384c370fda4eea07ec88ceee63633\\output\\res\\anim\\abc_popup_enter.xml"
-    },
-    {
-        "merged": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/D:\\AndroidApp\\goodlePlay\\webSerser\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/C:\\Users\\胡玉娇\\.android\\build-cache\\a6377b2cd9b384c370fda4eea07ec88ceee63633\\output\\res\\anim\\abc_slide_out_bottom.xml"
-    },
-    {
-        "merged": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/D:\\AndroidApp\\goodlePlay\\webSerser\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/C:\\Users\\胡玉娇\\.android\\build-cache\\a6377b2cd9b384c370fda4eea07ec88ceee63633\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
-        "merged": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
-        "source": "/Users/yuhaifei/.android/build-cache/a55a9e48f1422f049cc3f766fed6bdc514af90ff/output/res/anim/abc_slide_out_bottom.xml"
-    },
-    {
-        "merged": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
-        "source": "/Users/yuhaifei/.android/build-cache/a55a9e48f1422f049cc3f766fed6bdc514af90ff/output/res/anim/abc_popup_exit.xml"
-    },
-    {
-        "merged": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
-        "source": "/Users/yuhaifei/.android/build-cache/a55a9e48f1422f049cc3f766fed6bdc514af90ff/output/res/anim/abc_slide_out_top.xml"
-    },
-    {
-        "merged": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
-        "source": "/Users/yuhaifei/.android/build-cache/a55a9e48f1422f049cc3f766fed6bdc514af90ff/output/res/anim/abc_popup_enter.xml"
-    },
-    {
-        "merged": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/D:\\AndroidApp\\goodlePlay\\webSerser\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/C:\\Users\\胡玉娇\\.android\\build-cache\\a6377b2cd9b384c370fda4eea07ec88ceee63633\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
-    },
-    {
-        "merged": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/D:\\AndroidApp\\goodlePlay\\webSerser\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/C:\\Users\\胡玉娇\\.android\\build-cache\\a6377b2cd9b384c370fda4eea07ec88ceee63633\\output\\res\\anim\\abc_popup_exit.xml"
-    },
-    {
-        "merged": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/D:\\AndroidApp\\goodlePlay\\webSerser\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/C:\\Users\\胡玉娇\\.android\\build-cache\\a6377b2cd9b384c370fda4eea07ec88ceee63633\\output\\res\\anim\\abc_fade_in.xml"
+        "merged": "C:\\Users\\lenovo\\Desktop\\android_androidstudio\\goodlePlay\\webSerser\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\808fd6bc9140d736b7f0b18ec08b07ae8d7ce67c\\output\\res\\anim\\abc_slide_out_top.xml"
     }
 ]

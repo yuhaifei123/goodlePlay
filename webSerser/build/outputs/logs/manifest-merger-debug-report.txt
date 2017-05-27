@@ -1,118 +1,118 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml:2:1-35:12
+ADDED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml:2:1-35:12
 	package
-		ADDED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml:3:5-32
-		INJECTED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml
-		INJECTED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml
+		ADDED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml:5:5-30
-		INJECTED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml
-		INJECTED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml
+		ADDED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml
 	android:versionCode
-		ADDED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml:4:5-28
-		INJECTED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml
-		INJECTED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml
+		ADDED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml:2:11-69
 uses-sdk
-ADDED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml:7:5-44
-MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/yuhaifei/.android/build-cache/a55a9e48f1422f049cc3f766fed6bdc514af90ff/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.3.1] /Users/yuhaifei/.android/build-cache/71da2991a19a134b83630959ce9e2c82aa1d90bf/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] /Users/yuhaifei/.android/build-cache/b2119fd68ef58ab2c591bdb179d19fc99fdf0665/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] /Users/yuhaifei/.android/build-cache/fc7837d13382a6856e5ba5762fc77eb98bdc6823/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] /Users/yuhaifei/.android/build-cache/47167c8ef949b1b0db2ecb2cfd03684e4e0bf6bf/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] /Users/yuhaifei/.android/build-cache/e97e77ddea51c82092b53e1c89267894530d8e84/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/yuhaifei/.android/build-cache/9eed14dc6aadd9739eae4cc2a99529cff3c6ebcc/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/yuhaifei/.android/build-cache/d69fa4cadbb007c29a999fd881603ae799963830/output/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-compat:25.3.1] /Users/yuhaifei/.android/build-cache/5c32c9f6b47611c6a61f24b4abd8aabd692b34ce/output/AndroidManifest.xml:21:5-23:58
+ADDED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml:7:5-44
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lenovo\.android\build-cache\808fd6bc9140d736b7f0b18ec08b07ae8d7ce67c\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\lenovo\.android\build-cache\fe73f2844513bfe8654aa15ed5196adda8e86894\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\lenovo\.android\build-cache\7cd33bc03ac12849ab2b7ef6da2a5e12c2aa85f9\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\lenovo\.android\build-cache\3b20ce5662cec8030da807228d076e94d3161499\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\lenovo\.android\build-cache\eba7b8d03c0f15b312928f687a513995c1af5c73\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\lenovo\.android\build-cache\a84bb9db4b51ae77392c819e629c23430cdc4550\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\lenovo\.android\build-cache\beea0a97018fe54842d57f4d412f0417812cde7d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\lenovo\.android\build-cache\13546b363e5d8d52f00e1ac8d23db0105dfde0f6\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\lenovo\.android\build-cache\951dd1e59fd8f5cdc5ad916bbfbddd8909a68605\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/yuhaifei/.android/build-cache/a55a9e48f1422f049cc3f766fed6bdc514af90ff/output/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lenovo\.android\build-cache\808fd6bc9140d736b7f0b18ec08b07ae8d7ce67c\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml
-		INJECTED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml:7:15-41
-		INJECTED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml
-		INJECTED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml
+		ADDED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml:7:15-41
+		INJECTED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml
 uses-permission#android.permission.READ_CONTACTS
-ADDED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml:9:5-72
+ADDED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml:9:5-72
 	android:name
-		ADDED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml:9:22-69
+		ADDED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml:9:22-69
 uses-permission#android.permission.WRITE_CONTACTS
-ADDED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml:10:5-73
+ADDED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml:10:5-73
 	android:name
-		ADDED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml:10:22-70
+		ADDED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml:10:22-70
 uses-permission#android.permission.WRITE_SETTINGS
-ADDED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml:11:5-73
+ADDED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml:11:5-73
 	android:name
-		ADDED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml:11:22-70
+		ADDED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml:11:22-70
 uses-permission#android.permission.INTERNET
-ADDED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml:12:5-67
+ADDED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml:12:5-67
 	android:name
-		ADDED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml:12:22-64
+		ADDED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml:12:22-64
 uses-permission#android.permission.WAKE_LOCK
-ADDED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml:13:5-68
+ADDED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml:13:5-68
 	android:name
-		ADDED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml:13:22-65
+		ADDED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml:13:22-65
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml:14:5-81
+ADDED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml:14:5-81
 	android:name
-		ADDED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml:14:22-78
+		ADDED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml:14:22-78
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml:15:5-81
+ADDED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml:15:5-81
 	android:name
-		ADDED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml:15:22-78
+		ADDED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml:15:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml:16:5-79
+ADDED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml:16:5-79
 	android:name
-		ADDED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml:16:22-76
+		ADDED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml:16:22-76
 application
-ADDED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml:18:5-33:19
-MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/yuhaifei/.android/build-cache/a55a9e48f1422f049cc3f766fed6bdc514af90ff/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:25.3.1] /Users/yuhaifei/.android/build-cache/71da2991a19a134b83630959ce9e2c82aa1d90bf/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] /Users/yuhaifei/.android/build-cache/b2119fd68ef58ab2c591bdb179d19fc99fdf0665/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] /Users/yuhaifei/.android/build-cache/fc7837d13382a6856e5ba5762fc77eb98bdc6823/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] /Users/yuhaifei/.android/build-cache/47167c8ef949b1b0db2ecb2cfd03684e4e0bf6bf/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] /Users/yuhaifei/.android/build-cache/e97e77ddea51c82092b53e1c89267894530d8e84/output/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/yuhaifei/.android/build-cache/9eed14dc6aadd9739eae4cc2a99529cff3c6ebcc/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/yuhaifei/.android/build-cache/d69fa4cadbb007c29a999fd881603ae799963830/output/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-compat:25.3.1] /Users/yuhaifei/.android/build-cache/5c32c9f6b47611c6a61f24b4abd8aabd692b34ce/output/AndroidManifest.xml:29:5-20
+ADDED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml:18:5-33:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lenovo\.android\build-cache\808fd6bc9140d736b7f0b18ec08b07ae8d7ce67c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\lenovo\.android\build-cache\fe73f2844513bfe8654aa15ed5196adda8e86894\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\lenovo\.android\build-cache\7cd33bc03ac12849ab2b7ef6da2a5e12c2aa85f9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\lenovo\.android\build-cache\3b20ce5662cec8030da807228d076e94d3161499\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\lenovo\.android\build-cache\eba7b8d03c0f15b312928f687a513995c1af5c73\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\lenovo\.android\build-cache\a84bb9db4b51ae77392c819e629c23430cdc4550\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\lenovo\.android\build-cache\beea0a97018fe54842d57f4d412f0417812cde7d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\lenovo\.android\build-cache\13546b363e5d8d52f00e1ac8d23db0105dfde0f6\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\lenovo\.android\build-cache\951dd1e59fd8f5cdc5ad916bbfbddd8909a68605\output\AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml:20:9-41
+		ADDED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml:20:9-41
 	android:icon
-		ADDED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml:19:9-45
+		ADDED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml:19:9-45
 activity#com.google.server.MainActivity
-ADDED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml:21:9-29:20
+ADDED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml:21:9-29:20
 	android:label
-		ADDED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml:23:13-45
+		ADDED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml:23:13-45
 	android:name
-		ADDED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml:22:13-58
+		ADDED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml:22:13-58
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml:24:13-28:29
+ADDED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml:24:13-28:29
 action#android.intent.action.MAIN
-ADDED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml:25:17-69
+ADDED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml:25:17-69
 	android:name
-		ADDED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml:25:25-66
+		ADDED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml:25:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml:27:17-77
+ADDED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml:27:17-77
 	android:name
-		ADDED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml:27:27-74
+		ADDED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml:27:27-74
 service#com.google.server.WebService
-ADDED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml:31:9-32:19
+ADDED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml:31:9-32:19
 	android:name
-		ADDED from /Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/AndroidManifest.xml:31:18-61
+		ADDED from C:\Users\lenovo\Desktop\android_androidstudio\goodlePlay\webSerser\src\main\AndroidManifest.xml:31:18-61
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/yuhaifei/.android/build-cache/a55a9e48f1422f049cc3f766fed6bdc514af90ff/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-v4:25.3.1] /Users/yuhaifei/.android/build-cache/71da2991a19a134b83630959ce9e2c82aa1d90bf/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] /Users/yuhaifei/.android/build-cache/b2119fd68ef58ab2c591bdb179d19fc99fdf0665/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] /Users/yuhaifei/.android/build-cache/fc7837d13382a6856e5ba5762fc77eb98bdc6823/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] /Users/yuhaifei/.android/build-cache/47167c8ef949b1b0db2ecb2cfd03684e4e0bf6bf/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] /Users/yuhaifei/.android/build-cache/e97e77ddea51c82092b53e1c89267894530d8e84/output/AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/yuhaifei/.android/build-cache/9eed14dc6aadd9739eae4cc2a99529cff3c6ebcc/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/yuhaifei/.android/build-cache/d69fa4cadbb007c29a999fd881603ae799963830/output/AndroidManifest.xml:22:5-24:34
-MERGED from [com.android.support:support-compat:25.3.1] /Users/yuhaifei/.android/build-cache/5c32c9f6b47611c6a61f24b4abd8aabd692b34ce/output/AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lenovo\.android\build-cache\808fd6bc9140d736b7f0b18ec08b07ae8d7ce67c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\lenovo\.android\build-cache\fe73f2844513bfe8654aa15ed5196adda8e86894\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\lenovo\.android\build-cache\7cd33bc03ac12849ab2b7ef6da2a5e12c2aa85f9\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\lenovo\.android\build-cache\3b20ce5662cec8030da807228d076e94d3161499\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\lenovo\.android\build-cache\eba7b8d03c0f15b312928f687a513995c1af5c73\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\lenovo\.android\build-cache\a84bb9db4b51ae77392c819e629c23430cdc4550\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\lenovo\.android\build-cache\beea0a97018fe54842d57f4d412f0417812cde7d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\lenovo\.android\build-cache\13546b363e5d8d52f00e1ac8d23db0105dfde0f6\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\lenovo\.android\build-cache\951dd1e59fd8f5cdc5ad916bbfbddd8909a68605\output\AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/yuhaifei/.android/build-cache/a55a9e48f1422f049cc3f766fed6bdc514af90ff/output/AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lenovo\.android\build-cache\808fd6bc9140d736b7f0b18ec08b07ae8d7ce67c\output\AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/yuhaifei/.android/build-cache/a55a9e48f1422f049cc3f766fed6bdc514af90ff/output/AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\lenovo\.android\build-cache\808fd6bc9140d736b7f0b18ec08b07ae8d7ce67c\output\AndroidManifest.xml:26:9-47

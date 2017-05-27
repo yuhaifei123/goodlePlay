@@ -1,10 +1,6 @@
 [
     {
-        "merged": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
-        "source": "/Users/yuhaifei/.android/build-cache/a55a9e48f1422f049cc3f766fed6bdc514af90ff/output/res/drawable-v23/abc_control_background_material.xml"
-    },
-    {
-        "merged": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/D:\\AndroidApp\\goodlePlay\\webSerser\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
-        "source": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/C:\\Users\\胡玉娇\\.android\\build-cache\\a6377b2cd9b384c370fda4eea07ec88ceee63633\\output\\res\\drawable-v23\\abc_control_background_material.xml"
+        "merged": "C:\\Users\\lenovo\\Desktop\\android_androidstudio\\goodlePlay\\webSerser\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "C:\\Users\\lenovo\\.android\\build-cache\\808fd6bc9140d736b7f0b18ec08b07ae8d7ce67c\\output\\res\\drawable-v23\\abc_control_background_material.xml"
     }
 ]

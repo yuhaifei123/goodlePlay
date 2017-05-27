@@ -1,10 +1,6 @@
 [
     {
-        "merged": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
-        "source": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/webSerser/src/main/res/drawable-xhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/D:\\AndroidApp\\goodlePlay\\webSerser\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
-        "source": "/Users/yuhaifei/Desktop/AndroidstudioApp/goodlePlay/D:\\AndroidApp\\goodlePlay\\webSerser\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\lenovo\\Desktop\\android_androidstudio\\goodlePlay\\webSerser\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\lenovo\\Desktop\\android_androidstudio\\goodlePlay\\webSerser\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
     }
 ]
